@@ -1,5 +1,5 @@
 package com.wakaleo.gameoflife.domain;
-test
+
 import java.util.ArrayList;
 import java.util.List;
 
